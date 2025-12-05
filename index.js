@@ -5,7 +5,6 @@ app.get('/', function(req, res){
     res.send('Rota esta funcionando')
 })
 
-
 let listaPedidos = [
     {
         "id":1,
